@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lekadex.Database/1.0.0": {
+        "runtime": {
+          "Lekadex.Database.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lekadex.Database/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

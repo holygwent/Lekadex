@@ -1,0 +1,41 @@
+﻿@model List<DoctorViewModel>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <input type="text" />
+      <table class="table">
+          <thead>
+              <tr>
+                  <th scope="col">
+                      #
+                  </th>
+                  <th scope="col">
+                      Name
+                  </th>
+                  <th scope="col">
+                      Actions
+                  </th>
+              </tr>
+              
+          </thead>
+          <tbody>
+              @foreach (var doctor in Model)
+              {
+              <tr>
+                  <th scope="row">@(Model.IndexOf(doctor)+1)</th>
+                  <td>@doctor.Name</td>
+                
+                  <td>
+                      <a asp-area="" asp-controller="Home" asp-action="View" asp-route-indexOfDoctor="@Model.IndexOf(doctor)">View</a>
+                      |
+                      <a asp-area="" asp-controller="Home" asp-action="Delete" asp-route-indexOfDoctor="@Model.IndexOf(doctor)">Delete</a>
+                  </td>
+                 
+              </tr>
+              }
+          </tbody>
+      </table>
+</div>

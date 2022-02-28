@@ -1,0 +1,15 @@
+C:\Users\48502\source\repos\lekadex-repozytorium\Lekadex\Lekadex\Lekadex.Core\bin\Debug\net5.0\Lekadex.Core.deps.json
+C:\Users\48502\source\repos\lekadex-repozytorium\Lekadex\Lekadex\Lekadex.Core\bin\Debug\net5.0\Lekadex.Core.dll
+C:\Users\48502\source\repos\lekadex-repozytorium\Lekadex\Lekadex\Lekadex.Core\bin\Debug\net5.0\ref\Lekadex.Core.dll
+C:\Users\48502\source\repos\lekadex-repozytorium\Lekadex\Lekadex\Lekadex.Core\bin\Debug\net5.0\Lekadex.Core.pdb
+C:\Users\48502\source\repos\lekadex-repozytorium\Lekadex\Lekadex\Lekadex.Core\bin\Debug\net5.0\Lekadex.Database.dll
+C:\Users\48502\source\repos\lekadex-repozytorium\Lekadex\Lekadex\Lekadex.Core\bin\Debug\net5.0\Lekadex.Database.pdb
+C:\Users\48502\source\repos\lekadex-repozytorium\Lekadex\Lekadex\Lekadex.Core\obj\Debug\net5.0\Lekadex.Core.csproj.AssemblyReference.cache
+C:\Users\48502\source\repos\lekadex-repozytorium\Lekadex\Lekadex\Lekadex.Core\obj\Debug\net5.0\Lekadex.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48502\source\repos\lekadex-repozytorium\Lekadex\Lekadex\Lekadex.Core\obj\Debug\net5.0\Lekadex.Core.AssemblyInfoInputs.cache
+C:\Users\48502\source\repos\lekadex-repozytorium\Lekadex\Lekadex\Lekadex.Core\obj\Debug\net5.0\Lekadex.Core.AssemblyInfo.cs
+C:\Users\48502\source\repos\lekadex-repozytorium\Lekadex\Lekadex\Lekadex.Core\obj\Debug\net5.0\Lekadex.Core.csproj.CoreCompileInputs.cache
+C:\Users\48502\source\repos\lekadex-repozytorium\Lekadex\Lekadex\Lekadex.Core\obj\Debug\net5.0\Lekadex.Core.csproj.CopyComplete
+C:\Users\48502\source\repos\lekadex-repozytorium\Lekadex\Lekadex\Lekadex.Core\obj\Debug\net5.0\Lekadex.Core.dll
+C:\Users\48502\source\repos\lekadex-repozytorium\Lekadex\Lekadex\Lekadex.Core\obj\Debug\net5.0\ref\Lekadex.Core.dll
+C:\Users\48502\source\repos\lekadex-repozytorium\Lekadex\Lekadex\Lekadex.Core\obj\Debug\net5.0\Lekadex.Core.pdb
